@@ -1,0 +1,1 @@
+cara menjalankan, ketik: npm run start
